@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 clap = "2.3.3"
+crossbeam = "0.7.3"
+smol = "1.2.5"
